@@ -23,6 +23,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+https://www.youtube.com/watch?v=_L225zpUK0M
+참고 영상
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
